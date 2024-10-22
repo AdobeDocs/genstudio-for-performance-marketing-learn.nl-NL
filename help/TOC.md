@@ -5,12 +5,12 @@ user-guide-description: De zelfstudies van het Experience League van de mening o
 source-git-commit: f67dfa11724d8d9d3d91dc6baea6c1e9b8ab5078
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 
-# Zelfstudies voor Adobe [!DNL GenStudio for Performance Marketing] {#tutorials}
+# Adobe [!DNL GenStudio for Performance Marketing]-tutorials {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing] zelfstudies](overview.md)
 + Ervaringen maken {#creating-experiences}
