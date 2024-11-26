@@ -2,10 +2,10 @@
 user-guide-title: Adobe  [!DNL GenStudio for Performance Marketing]  leerprogramma's
 breadcrumb-title: Adobe  [!DNL GenStudio for Performance Marketing]  leerprogramma's
 user-guide-description: De zelfstudies van het Experience League van de mening op Adobe  [!DNL GenStudio for Performance Marketing], een oplossing van begin tot eind om uw ketting van de inhoudslevering met generatieve AI en intelligente automatisering te versnellen en te vereenvoudigen.
-source-git-commit: f67dfa11724d8d9d3d91dc6baea6c1e9b8ab5078
+source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 5%
+source-wordcount: '48'
+ht-degree: 4%
 
 ---
 
@@ -13,6 +13,8 @@ ht-degree: 5%
 # Adobe [!DNL GenStudio for Performance Marketing]-tutorials {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing] zelfstudies](overview.md)
++ Uw merk invoeren {#inputing-your-brand}
+   + [Merk, Product en Persona invoeren](./inputting-your-brand/inputting-brand-product-persona.md)
 + Ervaringen maken {#creating-experiences}
    + [E-mails voor on-brand marketing maken](./creating-experiences/creating-on-brand-emails.md)
    + [On-brand meta-advertenties maken](./creating-experiences/creating-on-meta-ads.md)
