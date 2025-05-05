@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Een stapsgewijze uitleg van het maken van e-mails voor marketingdoeleinden van het merk met Adobe [!DNL GenStudio for Performance Marketing] .
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435073/?learn=on&captions=dut)
