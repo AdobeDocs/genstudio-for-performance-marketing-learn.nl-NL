@@ -15,7 +15,7 @@ Hieronder volgt een aantal richtlijnen die moeten worden gevolgd wanneer u een b
 
 Dit project voldoet aan de Adobe-[gedragscode](code-of-conduct.md). Door deelname,
 u wordt verwacht deze code te handhaven. Geef een onacceptabel gedrag aan
-[ Grp-opensourceoffice@adobe.com ](mailto:Grp-opensourceoffice@adobe.com).
+[&#x200B; Grp-opensourceoffice@adobe.com &#x200B;](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Documentatie voor de bijdragershandleiding
 
