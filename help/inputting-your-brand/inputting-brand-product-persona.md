@@ -20,4 +20,4 @@ ht-degree: 83%
 
 In deze video wordt een gedetailleerde uitleg gegeven voor het invoeren van merkrichtlijnen, producten en belangrijke marketingpersona&#39;s van uw bedrijf in GenStudio voor Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439377/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)

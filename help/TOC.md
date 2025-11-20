@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe  [!DNL GenStudio for Performance Marketing]  leerprogramma's
 breadcrumb-title: Adobe  [!DNL GenStudio for Performance Marketing]  leerprogramma's
-user-guide-description: De zelfstudies van het Experience League van de mening op Adobe  [!DNL GenStudio for Performance Marketing], een oplossing van begin tot eind om uw ketting van de inhoudslevering met generatieve AI en intelligente automatisering te versnellen en te vereenvoudigen.
+user-guide-description: De zelfstudies van Experience League van de mening op Adobe  [!DNL GenStudio for Performance Marketing], een oplossing van begin tot eind om uw inhoud supply chain met generatieve AI en intelligente automatisering te versnellen en te vereenvoudigen.
 source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
 workflow-type: tm+mt
 source-wordcount: '48'

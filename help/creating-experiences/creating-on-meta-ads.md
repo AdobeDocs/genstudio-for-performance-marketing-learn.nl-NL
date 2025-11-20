@@ -1,5 +1,5 @@
 ---
-title: Metaadvertenties op merk maken
+title: Meta-advertenties op merk maken
 description: Volg een stap-voor-stap productlooppas-door van het creëren van een meta in  [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Volg een stapsgewijze productintroductie over het maken van een meta-advertentie in [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435084/?learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
