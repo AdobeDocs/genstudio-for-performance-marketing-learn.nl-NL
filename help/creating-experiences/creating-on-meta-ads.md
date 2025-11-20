@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Volg een stapsgewijze productintroductie over het maken van een meta-advertentie in [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435084/?captions=dut&learn=on)
