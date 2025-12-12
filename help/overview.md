@@ -1,14 +1,14 @@
 ---
-title: GenStudio for Performance Marketing Tutorials
+title: GenStudio for Performance Marketing-zelfstudies
 description: Bekijk videozelfstudies over de mogelijkheden van GenStudio for Performance Marketing. Meer informatie over hoe u snel merkgerichte assets maakt, variaties genereert en ervaringen optimaliseert.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
+source-git-commit: 61a80be078be8ef78113c8fb472c8fee80334001
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 24%
+ht-degree: 40%
 
 ---
 
@@ -31,7 +31,7 @@ Haal het meeste uit [!DNL GenStudio for Performance Marketing] . Gebruik deze ze
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="Merk, Product en Persona invoeren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439377/?format=jpeg&nocache=1732633204686&captions=dut" alt="Merk, Product en Persona invoeren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="Merk, Product en Persona invoeren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -41,7 +41,7 @@ Haal het meeste uit [!DNL GenStudio for Performance Marketing] . Gebruik deze ze
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" title="Merk, Product en Persona invoeren"> Invoerend Merk, Product, en Persona </a>
                     </p>
-                    <p class="is-size-6">In deze video wordt een gedetailleerde uitleg gegeven van hoe u de merkrichtlijnen, producten en belangrijke marketingpersona's van uw bedrijf kunt invoeren in GenStudio for Performance Marketing.</p>
+                    <p class="is-size-6">In deze video wordt een gedetailleerde uitleg gegeven voor het invoeren van merkrichtlijnen, producten en belangrijke marketingpersona's van uw bedrijf in GenStudio voor Performance Marketing.</p>
                 </div>
                 <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
@@ -67,7 +67,7 @@ Haal het meeste uit [!DNL GenStudio for Performance Marketing] . Gebruik deze ze
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="E-mails voor marketingdoeleinden op het merk maken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435073/?format=jpeg&nocache=1732633205780&captions=dut" alt="E-mails voor marketingdoeleinden op het merk maken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="E-mails voor marketingdoeleinden op het merk maken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -89,8 +89,8 @@ Haal het meeste uit [!DNL GenStudio for Performance Marketing] . Gebruik deze ze
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./creating-experiences/creating-on-meta-ads.md" title="Metaadvertenties op merk maken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435084/?format=jpeg&nocache=1732633205785&captions=dut" alt="Metaadvertenties op merk maken"
+                    <a href="./creating-experiences/creating-on-meta-ads.md" title="Meta-advertenties op merk maken" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Meta-advertenties op merk maken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,7 +98,7 @@ Haal het meeste uit [!DNL GenStudio for Performance Marketing] . Gebruik deze ze
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="Metaadvertenties op merk maken"> creeer Meta-advertenties van het Merk </a>
+                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="Meta-advertenties op merk maken"> creeer de Advertentie van Meta van het Merk </a>
                     </p>
                     <p class="is-size-6">Volg een stapsgewijze productintroductie over het maken van een meta-advertentie in [!DNL GenStudio for Performance Marketing].</p>
                 </div>
@@ -141,7 +141,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435073?format=jpeg&captions=dut" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -154,7 +154,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435084?format=jpeg&captions=dut" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
@@ -172,6 +172,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 -->
